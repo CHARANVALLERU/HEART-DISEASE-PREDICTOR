@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction System
+#  Heart Disease Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange.svg)
@@ -85,27 +85,6 @@ The project uses the **UCI Heart Disease Dataset** (Cleveland database), which c
 
 ---
 
-## ⚙️ Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/heart-disease-predictor.git
-cd heart-disease-predictor
-```
-
-2. **Create a virtual environment (recommended)**
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Usage
 
 ### Run the complete ML pipeline (training + evaluation)
@@ -185,18 +164,9 @@ heart-disease-predictor/
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-⭐ **If you found this project helpful, please give it a star!**
